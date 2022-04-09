@@ -4,7 +4,8 @@
   "description": "Trabajar con asisncronismo en Javascript",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/index.js"
+    "callback": "node src/index.js",
+    "promises": "node src/promises/index.js"
   },
   "repository": {
     "type": "git",
